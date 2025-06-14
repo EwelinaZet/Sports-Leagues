@@ -1,7 +1,6 @@
 # Sports Leagues App
 
-A modern React application that allows users to explore and manage sports leagues information. Built with React, TypeScript, and Styled Components, this application provides an intuitive interface for browsing different sports leagues and their details. This application was created using Cursor AI. 
-
+A modern React application that allows users to explore and manage sports leagues information. Built with React, TypeScript, and Styled Components, this application provides an intuitive interface for browsing different sports leagues and their details.
 ## Netlify link
 
 https://sports-leagues-list.netlify.app/
